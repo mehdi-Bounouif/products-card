@@ -1,2 +1,2 @@
-# products-card
-products card
+![products-card](/images/products-card.jpg)
+
